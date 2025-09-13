@@ -1,5 +1,5 @@
-<img width="500" height="281" alt="16_9" src="https://github.com/user-attachments/assets/dcd8c30f-f920-49ce-ae73-7fb0da13dcff" />
 
+<img width="2000" height="1124" alt="16_9" src="https://github.com/user-attachments/assets/98b1f854-0cb5-4744-82ef-75b846c7a885" />
 
 🍀 LuckySavings
 
