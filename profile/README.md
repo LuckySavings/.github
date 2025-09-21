@@ -57,3 +57,4 @@ Every deposit has the potential to bring luck, turning your savings journey into
 🤝 Contributing
 
 We welcome developers, designers, and community builders to join us in shaping the future of gamified savings on blockchain.
+The repository is private. If you require access, please contact us press@luckysavings.io
